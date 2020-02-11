@@ -1,5 +1,5 @@
 # rsschool-cv
-Evgeniy Terekhov123
+Evgeniy Terekhov
 # Contact Info
 email: BIZENTELA@mail.ru
 # Skills 
